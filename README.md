@@ -10,12 +10,20 @@
 - 💬 **Ask me about**: C/C++, Java, Spring, NodeJS, Data Structures, and Algorithms
 - 📫 **Reach me at**: [manojkp124@gmail.com](mailto:manojkp124@gmail.com)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/kumanoj/" target="_blank" rel="noopener noreferrer"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://codeforces.com/profile/kmanoj07" target="_blank" rel="noopener noreferrer"><img align="left" src="https://pbs.twimg.com/profile_images/1477930785537605633/ROTVNVz7_400x400.jpg" alt="Codeforces" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/profile/manojkp124" target="_blank" rel="noopener noreferrer"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
-  <a href="https://leetcode.com/makumar/" target="_blank" rel="noopener noreferrer"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+<h2 align="center">Connect with me:</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/kumanoj/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://codeforces.com/profile/kmanoj07" target="_blank" rel="noopener noreferrer">
+    <img src="https://pbs.twimg.com/profile_images/1477930785537605633/ROTVNVz7_400x400.jpg" alt="Codeforces" height="30" width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/manojkp124" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+  </a>
+  <a href="https://leetcode.com/makumar/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">💻 Tech Stack:</h3>
