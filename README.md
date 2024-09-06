@@ -5,9 +5,9 @@
   <a href="https://github.com/kmanoj07?tab=repositories" target="_blank"><strong>👨‍💻 View my projects on GitHub</strong></a>
 </p>
 
-- 🌱 **Specialized in**: Spring Boot, REST APIs, Web Services, Microservices, and Backend Engineering
-- 🌻 **Currently learning**: Competitive Programming and Machine Learning (ML)
-- 💬 **Ask me about**: C/C++, Java, Spring, NodeJS, Data Structures, and Algorithms
+- 🌱 **Specialized in**: RESTful Web Services, Microservices, Android and Backend Development
+- 🌻 **Currently learning**: Data Engineering and Machine Learning (ML)
+- 💬 **Ask me about**: C/C++, Java, JavaScript, TypeScript, SQL, Spring Boot, Data Structures, and Algorithms
 - 📫 **Reach me at**: [manojkp124@gmail.com](mailto:manojkp124@gmail.com)
 
 <h2 align="center">Connect with me:</h2>
