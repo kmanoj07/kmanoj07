@@ -1,59 +1,48 @@
-<h1 align="center">Hi 👋, I'm Manoj Kumar</h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kmanoj07&label=Profile%20views&color=0e75b6&style=flat" alt="kmanoj07" /> </p>
 
-<p align="center">
-  <a href="https://github.com/kmanoj07?tab=repositories" target="_blank"><strong>👨‍💻 View my projects on GitHub</strong></a>
-</p>
+<!--
+**hoelzer/hoelzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- 🌱 **Specialized in**: RESTful Web Services, Microservices, Android and Backend Development
-- 🌻 **Currently learning**: Data Engineering and Machine Learning (ML)
-- 💬 **Ask me about**: C/C++, Java, JavaScript, TypeScript, SQL, Spring Boot, Data Structures, and Algorithms
-- 📫 **Reach me at**: [manojkp124@gmail.com](mailto:manojkp124@gmail.com)
+Here are some ideas to get you started:
 
-<h2 align="center">Connect with me:</h2>
-<p align="center">
-  <a href="https://www.linkedin.com/in/kumanoj/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://codeforces.com/profile/kmanoj07" target="_blank" rel="noopener noreferrer">
-    <img src="https://pbs.twimg.com/profile_images/1477930785537605633/ROTVNVz7_400x400.jpg" alt="Codeforces" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/manojkp124" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/makumar/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-</p>
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
-<h3 align="left">💻 Tech Stack:</h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-%23F7DF1C.svg?style=flat&logo=java&logoColor=black" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat&logo=spring&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Python-%2338A1DB.svg?style=flat&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/SQL-%2307405e.svg?style=flat&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1C.svg?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazonaws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black" alt="ReactJS" />
-  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Azure-%230078D4.svg?style=flat&logo=microsoftazure&logoColor=white" alt="Azure" />
-</p>
+## Hi there! 👋
+![](https://komarev.com/ghpvc/?username=kmanoj07&color=blue)
 
-<h3 align="left">📊 GitHub Stats:</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kmanoj07&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kmanoj07&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+I am currently working as a Software Engineer - Backend at Fidelity Information Services (FIS), focusing on product development, transforming legacy systems to microservices architecture and optimizing scalable, high-performance systems for commercial lending platforms. My expertise spans across implementing robust ETL pipelines, optimizing asynchronous data processing with Kafka, and expediting financial features for top-tier clients. I work extensively with Java, Python, AWS EC2, and AWS Step Functions to deliver innovative solutions in FinTech.
 
-<p align="right">
-  <img src="https://media.giphy.com/media/l2JdUfi3lgKFdzuYO/giphy.gif" alt="Coding GIF" width="200" />
-</p>
+### interests 🔭
+
+* Backend Development, Distributed Systems and Data Engineering
+* Data Science, Machine Learning and Low-Level Architecure / Design
+* Cloud computing, automation, and reproducibility with Docker containers and Kubernetes
+
+### Skills  :heavy_check_mark:
+![My Skills](https://skillicons.dev/icons?i=linux,powershell,bash,java,python,javascript,cpp,c,angular,spring,git,github,docker,flask,babel)
+
+![My Skills](https://skillicons.dev/icons?i=react,scala,aws,azure,kotlin,nodejs,androidstudio,mongodb,mysql,nginx,rabbitmq,redis,kafka,terraform,ts)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmanoj07&layout=compact&theme=dark)
+
+![stats](https://github-readme-stats.vercel.app/api?username=kmanoj07&show_icons=true&theme=dark)
+
+### How to reach me 📫
+
+[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/kmanoj07%C3%B6lzer-39304018a/)
+
+### Acknowledgement 🌱
+
+My GitHub landing page was heavily inspired by [github.com/jonas-fuchs](https://github.com/jonas-fuchs) - also check out Jonas' page and the great bioinformatics tools he's developing for viruses! 
+
+
+
+
+
