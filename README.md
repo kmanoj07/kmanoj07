@@ -37,12 +37,3 @@ I am currently working as a Software Engineer - Backend at Fidelity Information 
 ### How to reach me 📫
 
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/kmanoj07%C3%B6lzer-39304018a/)
-
-### Acknowledgement 🌱
-
-My GitHub landing page was heavily inspired by [github.com/jonas-fuchs](https://github.com/jonas-fuchs) - also check out Jonas' page and the great bioinformatics tools he's developing for viruses! 
-
-
-
-
-
