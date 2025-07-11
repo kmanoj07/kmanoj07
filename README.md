@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi there! 👋
+## <h1 align="center">Heyya, I'm Manoj</h1>
 ![](https://komarev.com/ghpvc/?username=kmanoj07&color=blue)
 
 I am currently working as a Software Engineer - Backend at Fidelity Information Services (FIS), focusing on product development, transforming legacy systems to microservices architecture and optimizing scalable, high-performance systems for commercial lending platforms. My expertise spans across implementing robust ETL pipelines, optimizing asynchronous data processing with Kafka, and expediting financial features for top-tier clients. I work extensively with Java, Python, AWS EC2, and AWS Step Functions to deliver innovative solutions in FinTech.
