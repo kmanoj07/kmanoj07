@@ -1,6 +1,7 @@
+<!--### Hi there 👋
 
 <!--
-**hoelzer/hoelzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**scortier/scortier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,26 +15,59 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## <h1 align="center">Heyya, I'm Manoj</h1>
-![](https://komarev.com/ghpvc/?username=kmanoj07&color=blue)
+<h1 align="center">Hi 👋, I'm Manoj Kumar Paswan</h1>
+<img src="https://i.imgur.com/Eu3NtrU.png">
 
-I am currently working as a Software Engineer - Backend at Fidelity Information Services (FIS), focusing on product development, transforming legacy systems to microservices architecture and optimizing scalable, high-performance systems for commercial lending platforms. My expertise spans across implementing robust ETL pipelines, optimizing asynchronous data processing with Kafka, and expediting financial features for top-tier clients. I work extensively with Java, Python, AWS EC2, and AWS Step Functions to deliver innovative solutions in FinTech.
+<h2 align="center"> 👨‍💻 Who am I?</h2>
+<p align="center">
+  <samp>
+I'm a Software Developer with an experience in Development, Analysis and Content Writing with particular expertise in Web, Machine Learning and Cloud Technologies. 
+  </samp><br><br>
+  <samp>
+<!-- Take a look at my <a href="./EXPERIENCE.md">Work Experience</a> and my <a href="./VOLUNTEER-EXPERIENCE.md">Volunteer Experience</a>. Looking for Open-Source Projects to collaborate on? Check out my <a href="./OPEN-SOURCE-PROJECTS.md">Open-Source Projects</a> and reach out to me if you would like to contribute or maintain. -->
+   </samp>
+  <br> <br>
+  <img src="https://komarev.com/ghpvc/?username=kmanoj07" alt="scortier" /> 
+</p>
 
-### interests 🔭
+<h2 align="center"> 🔭 Technology Stack</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/java-%2300ADD8.svg?style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/react%20-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/docker%20-%231572B6.svg?&style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp; &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/javascript%20-%231572B6.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/mongodb%20-%231572B6.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/mysql%20-%231572B6.svg?&style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/python%20-%231572B6.svg?&style=for-the-badge&logo=python&logoColor=yellow" />&nbsp;&nbsp;&nbsp;&nbsp;
+<!--   <img src="https://img.shields.io/badge/nginx%20-%231572B6.svg?&style=for-the-badge&logo=nginx&logoColor=red" />&nbsp;&nbsp;&nbsp;&nbsp; -->
+  <img src="https://img.shields.io/badge/neo4j%20-%231572B6.svg?&style=for-the-badge&logo=neo4j&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/heroku%20-%231572B6.svg?&style=for-the-badge&logo=heroku&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/git%20-%231572B6.svg?&style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/kubernetes%20-%231572B6.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
-* Backend Development, Distributed Systems and Data Engineering
-* Data Science, Machine Learning and Low-Level Architecure / Design
-* Cloud computing, automation, and reproducibility with Docker containers and Kubernetes
+<h2 align="center">🐦 Github Statistics </h2>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=kmanoj07&layout=compact&hide=html&theme=jolly" alt="scortier" />&nbsp;&nbsp;&nbsp;&nbsp;
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scortier&count_private=true&theme=dracula"> -->
+</p>
 
-### Skills  :heavy_check_mark:
-![My Skills](https://skillicons.dev/icons?i=linux,powershell,bash,java,python,javascript,cpp,c,angular,spring,git,github,docker,flask,babel)
+<h2 align="center">📫 Reach out to me on</h2>
+<p align="center">
+  <a target="_blank"href="https://www.linkedin.com/in/kumanoj"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:manojkp124@gmail.com?subject=Hello%20Manoj,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-![My Skills](https://skillicons.dev/icons?i=react,scala,aws,azure,kotlin,nodejs,androidstudio,mongodb,mysql,nginx,rabbitmq,redis,kafka,terraform,ts)
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmanoj07&layout=compact&theme=dark)
-
-![stats](https://github-readme-stats.vercel.app/api?username=kmanoj07&show_icons=true&theme=dark)
-
-### How to reach me 📫
-
-[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/kmanoj07%C3%B6lzer-39304018a/)
+<h2 align="center">Sad Day? Let's bring a Smile on your Face :wink:</h2>
+<p align="center">
+<img src="https://readme-jokes.vercel.app/api" alt="Refresh again to view Jokes Card" />
+</p>
